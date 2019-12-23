@@ -8,3 +8,4 @@ The examples of neuron style transfer based on [this paper](https://www.cv-found
 
 ## Santa Images Classification
 The task is to classify images into Santa images and Non-santa images
+![image](https://github.com/Lexie88rus/Bertelsmann-ChallengeAI/raw/master/images/santa_demo.png)
